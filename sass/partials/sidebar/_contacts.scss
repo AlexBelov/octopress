@@ -1,0 +1,31 @@
+.sociallinks {
+	font-size: 0.9em;
+  a {
+  	padding: 0 25px;
+  	text-decoration: none;
+  }
+  a.vk {
+  	background: url("/assets/img/sidebar/vk-icon.jpg") no-repeat scroll 0 0 transparent;
+  	background-size: 16px;
+  }
+  a.facebook {
+  	background: url("/assets/img/sidebar/fb-icon.png") no-repeat scroll 0 0 transparent;
+  	background-size: 16px;
+  }
+  a.skype {
+  	background: url("/assets/img/sidebar/skype-icon.png") no-repeat scroll 0 0 transparent;
+  	background-size: 16px;
+  }
+  a.linkedin {
+  	background: url("/assets/img/sidebar/linkedin-icon.png") no-repeat scroll 0 0 transparent;
+  	background-size: 16px;
+  }
+  a.email {
+  	background: url("/assets/img/sidebar/email-icon.gif") no-repeat scroll 0 0 transparent;
+  	background-size: 16px;
+  }
+  a.github {
+    background: url("/assets/img/sidebar/github.png") no-repeat scroll 0 0 transparent;
+    background-size: 16px;
+  }
+}
